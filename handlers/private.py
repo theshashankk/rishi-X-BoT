@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Rishi 😎🔥](https://t.me/xD_Rishi).
+I can play music in your group's voice call. Developed by [Your Daddy 😎🔥](https://t.me/FallenAngel_xD).
 
 Add me to your group and play music freely!**
         """,
@@ -19,17 +19,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "Moi Op Wale Master", url="https://t.me/xD_Rishi")
+                        "Moi Op Wale Master", url="https://t.me/FallenAngel_xD")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/NiceJokeLol"
+                        "💬 Group", url="https://t.me/joinchat/pAuDQxQwsLlmMjNl"
                     ),
                     InlineKeyboardButton(
                         "🎛️ Commands 🎛️", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "😎 Add To Your Group 😎", url="https://t.me/MusicExeBot?startgroup=true"
+                        "😎 Add To Your Group 😎", url="https://t.me/Music_op_bot?startgroup=true"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Moi Op Wale Owner", url="https://t.me/Infinity_BOTs")
+                        "Moi Op Wale Owner", url="https://t.me/FallenAngel_xD")
                 ]
             ]
         )
