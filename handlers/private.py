@@ -7,11 +7,11 @@ from helpers.filters import other_filters2
 
 @Client.on_message(other_filters2)
 async def start(_, message: Message):
-    await message.reply_sticker("CAACAgQAAx0CTv65QgABBfJlYF6VCrGMm6OJ23AxHmD6qUSWESsAAhoQAAKm8XEeD5nrjz5IJFYeBA")
+    await message.reply_sticker("CAACAgQAAxkBAAEJar1gfUPxtIX1OutHd1sOi37QRKjBTQACPgADiHb1PyaUZ16x2sykHwQ")
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Your Daddy 😎🔥](https://t.me/FallenAngel_xD).
+I can play music in your group's voice call. Developed by [Rishi](https://t.me/xD_Rishi).
 
 Add me to your group and play music freely!**
         """,
@@ -19,17 +19,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "Moi Op Wale Master", url="https://t.me/FallenAngel_xD")
+                        "Moi Op Wale Master", url="https://t.me/xD_Rishi")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/joinchat/pAuDQxQwsLlmMjNl"
+                        "💬 Group", url="https://t.me/NiceJokeLol"
                     ),
                     InlineKeyboardButton(
                         "🎛️ Commands 🎛️", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "😎 Add To Your Group 😎", url="https://t.me/Music_op_bot?startgroup=true"
+                        "😎 Add To Your Group 😎", url="https://t.me/MusicExeBot?startgroup=true"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Moi Op Wale Owner", url="https://t.me/FallenAngel_xD")
+                        "Moi Op Wale Owner", url="https://t.me/@xD_Rishi")
                 ]
             ]
         )
