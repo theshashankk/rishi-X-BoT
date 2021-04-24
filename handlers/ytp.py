@@ -52,7 +52,7 @@ async def play(_, message: Message):
 
     except Exception as e:
         lel.edit(
-            "❌ Song not found.\n\nRetry."
+            "❌ Didn't found anything.\n\nRetry."
         )
         print(str(e))
         return
@@ -87,7 +87,7 @@ async def play(_, message: Message):
     elif url:
         file_path = await converter.convert(youtube.download(url))
     else:
-        return await lel.edit_text("❗ ntg to play 😖😖")
+        return await lel.edit_text("❗ Nothing to play lol 😹 ")
 
     if message.chat.id in callsmusic.pytgcalls.active_calls:
         position = await queues.put(message.chat.id, file=file_path)
