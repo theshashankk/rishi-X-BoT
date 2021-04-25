@@ -9,9 +9,9 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgQAAxkBAAEJar1gfUPxtIX1OutHd1sOi37QRKjBTQACPgADiHb1PyaUZ16x2sykHwQ")
     await message.reply_text(
-        f"""**Hey, I'm 𝗖𝗢𝗙𝗙𝗜𝗡 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥 ⚡
+        f"""**Hey, I'm ⚡ 𝙐𝙉𝙆𝙉𝙊𝙒𝙉 𝙃𝘼𝘾𝙆𝙀𝙍 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏 ⚡
 
-I can play music in your group's voice call. Developed by [𝘅𝗗_𝗥𝗶𝗦𝗛𝗶⚡](https://t.me/xD_Rishi).
+I can play music in your group's voice call. Developed by [𝙐𝙉𝙆𝙉𝙊𝙒𝙉_𝙭𝘿](https://t.me/UnknownHacker001).
 
 Add me to your group and play music freely!**
         """,
@@ -19,10 +19,10 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🤞🏻𝚈𝙾𝚄𝚁 𝙼𝙰𝙺𝙴𝚁🤞🏻", url="https://t.me/xD_Rishi")
+                        "🤞🏻𝚈𝙾𝚄𝚁 𝙼𝙰𝙺𝙴𝚁🤞🏻", url="https://t.me/UnknownHackerOO1")
                   ],[
                     InlineKeyboardButton(
-                        "🔰𝙶𝚁𝙾𝚄𝙿🔰", url="https://t.me/NiceJokeLol"
+                        "🔰𝙶𝚁𝙾𝚄𝙿🔰", url="https://t.me/TeamAnonymous_X"
                     ),
                     InlineKeyboardButton(
                         "🎛️ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂 🎛️", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
@@ -38,7 +38,7 @@ Add me to your group and play music freely!**
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**⚡ 𝗖𝗢𝗙𝗙𝗜𝗡 𝗠𝗨𝗦𝗜𝗖 𝗣𝗟𝗔𝗬𝗘𝗥 𝗢𝗡𝗟𝗜𝗡𝗘 ⚡ ✅**""",
+      await message.reply_text("""**⚡𝙐𝙉𝙆𝙉𝙊𝙒𝙉 𝙃𝘼𝘾𝙆𝙀𝙍 𝘽𝙊𝙏 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀⚡ ✅**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
