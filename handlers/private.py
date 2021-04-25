@@ -9,7 +9,7 @@ from helpers.filters import other_filters2
 async def start(_, message: Message):
     await message.reply_sticker("CAACAgQAAxkBAAEJar1gfUPxtIX1OutHd1sOi37QRKjBTQACPgADiHb1PyaUZ16x2sykHwQ")
     await message.reply_text(
-        f"""**Hey, I'm ⚡ 𝙐𝙉𝙆𝙉𝙊𝙒𝙉 𝙃𝘼𝘾𝙆𝙀𝙍 𝙈𝙐𝙎𝙄𝘾 𝘽𝙊𝙏 ⚡
+        f"""**Hey, I'm ⚡█▬█ █ ▀█▀ 𝗠𝗨𝗦𝗜𝗖 ™⚡
 
 I can play music in your group's voice call. Developed by [𝙐𝙉𝙆𝙉𝙊𝙒𝙉_𝙭𝘿](https://t.me/UnknownHacker001).
 
@@ -29,7 +29,7 @@ Add me to your group and play music freely!**
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "😎 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 😎", url="https://t.me/MusicExeBot?startgroup=true"
+                        "😎 𝙰𝙳𝙳 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 😎", url="https://t.me/@Hit_music_Exe_bot?startgroup=true"
                     )]
             ]
         ),
@@ -38,12 +38,12 @@ Add me to your group and play music freely!**
 
 @Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**⚡𝙐𝙉𝙆𝙉𝙊𝙒𝙉 𝙃𝘼𝘾𝙆𝙀𝙍 𝘽𝙊𝙏 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀⚡ ✅**""",
+      await message.reply_text("""**⚡█▬█ █ ▀█▀ 𝗠𝗨𝗦𝗜𝗖 ™⚡is online ✅**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "𝙿𝙻𝙰𝚈𝙸𝙽𝙶 𝙱𝚈 𝚈𝙾𝚄𝚁 DAD🤙🏻", url="https://t.me/xD_Rishi")
+                        "𝙿𝙻𝙰𝚈𝙸𝙽𝙶 𝙱𝚈 𝚈𝙾𝚄𝚁 DAD🤙🏻", url="https://t.me/UnknownHacker001")
                 ]
             ]
         )
