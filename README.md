@@ -3,7 +3,7 @@
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
+  <img src="https://telegra.ph/file/bddc412872ab40706469c.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
