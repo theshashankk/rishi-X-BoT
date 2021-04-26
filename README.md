@@ -34,8 +34,7 @@
 
 <p align="left"><a href="https://replit.com/@coffinXmusic/MusicBot?v=10"> <img src="https://img.shields.io/badge/Pyrogram%20String%20Session-black?style=for-the-badge&logo=repl.it" width="220" height="38.45"/></a></p>
 ### Credits
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [InukaASiTH](https://github.com/InukaAsith): Dev
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
-- [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
+- [TheShashank](https://t.me/shashank_xD)
+- [Rishi_xD](https://t.me/xD_Rishi)
+    
+                                       
