@@ -33,7 +33,7 @@
 ### Gen Your pyrogram String...
 
 <p align="left"><a href="https://replit.com/@coffinXmusic/MusicBot?v=10"> <img src="https://img.shields.io/badge/Pyrogram%20String%20Session-black?style=for-the-badge&logo=repl.it" width="220" height="38.45"/></a></p>
-### Credits
+𝘾𝙍𝙀𝘿𝙄𝙏
 - [TheShashank](https://t.me/shashank_xD)
 - [Rishi_xD](https://t.me/xD_Rishi)
     
