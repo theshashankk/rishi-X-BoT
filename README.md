@@ -30,7 +30,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/theshashankk/rishi-X-BoTz)
 
-Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
+Use https://replit.com/@coffinXmusic/MusicBot?v=10 to get pyrogram string session..
 
 ### Credits
 - [ImJanindu](https://github.com/ImJanindu): Dev
