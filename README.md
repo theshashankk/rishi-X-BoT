@@ -32,7 +32,7 @@
 
 ### Gen Your pyrogram String...
 
-<p align="left"><a href="https://replit.com/@coffinXmusic/MusicBot?v=10"> <img src="https://img.shields.io/badge/Pyrogram%20String%20Session-black?style=for-the-badge&logo=repl.it" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://t.me/xD_Rishi"> <img src="https://img.shields.io/badge/Rishi%20xD-blue?style=for-the-badge&logo=telegram" width="220" height="38.45"/></a></p>
 𝘾𝙍𝙀𝘿𝙄𝙏
 <p align="left"><a href="https://t.me/xD_Rishi"> <img src="https://img.shields.io/badge/Rishi%20xD-White?style=for-the-badge&logo=telegram" width="220" height="38.45"/></a></p>
 - [Rishi_xD](https://t.me/xD_Rishi)
