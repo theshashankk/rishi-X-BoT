@@ -45,7 +45,7 @@ def song(client, message):
         )
         print(str(e))
         return
-    m.edit("Downloading the song by xD_Rishi...")
+    m.edit("Downloading the song by [𝙰𝙽𝚄𝚂𝙷𝙺𝙰] , url="https://t.me/secret_society_new")  ...")
     try:
         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
             info_dict = ydl.extract_info(link, download=False)
