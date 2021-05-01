@@ -98,7 +98,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 @errors
 async def play(_, message: Message):
 
-    lel = await message.reply("🔄 **Processing** sounds...")
+    lel = await message.reply("🔄 **Processing**...")
     sender_id = message.from_user.id
     sender_name = message.from_user.first_name
 
@@ -106,8 +106,8 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="MY OWNER",
-                        url="https://t.me/UnknownHacker001")
+                        text="𝐱𝐃_𝐑𝐢𝐬𝐡𝐢",
+                        url="https://t.me/xD_Rishi")
                    
                 ]
             ]
@@ -132,7 +132,7 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Moi Op Wale Master",
+                            text="𝐏𝐑𝐎 𝐀𝐒 𝐅𝐔*𝐊",
                             url=f"https://t.me/xD_Rishi")
 
                     ]
